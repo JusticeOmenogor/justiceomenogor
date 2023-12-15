@@ -3,10 +3,12 @@
 
 
 ## 🚀 About Me
-I am data analyst with experience in advanced analytics on data sets, relational database design, exploratory data analysis and translating these analysis into operational dashboards and performance related insights. With project management experience, I've collaborate and lead product teams using Agile & Prince2 project management methodologies to ensure high-quality deliverables that meet stakeholder’s timelines, targets and expectations.
+I'm a skilled web developer skilled in JavaScript, React.js, Next.js. Beyond coding, I bring extensive project management expertise. I lead product teams using Agile and Prince2 methodologies, ensuring high-quality deliverables that meet stakeholder timelines, targets, and expectations. Let's collaborate and code something amazing together!
 
 
 ## 🛠 Skills
+1. React
+2. Next.js
 1. Python
 2. SQL
 3. Tableau
